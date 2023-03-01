@@ -1,0 +1,157 @@
+body{
+    background-color: #E0E8FF;
+    background-image: url(./Path\ 2.png);
+    background-repeat: no-repeat;
+    background-size:contain;
+    
+}
+
+.summary{
+   width:450px;
+   height:697px;
+   background-color: white;
+   border-radius: 20px;
+   margin:auto;
+   box-shadow: 0px 40px 40px -20px rgba(13, 48, 189, 0.151826);
+   margin-top:25px;
+}
+
+.music{
+    width:450px ;
+    height: 220px;
+}
+
+h1{
+    font-family: 'Red Hat Display';
+font-style: normal;
+font-weight: 900;
+font-size: 28px;
+line-height: 37px;
+padding: 48px;
+display: flex;
+align-items: center;
+justify-content: center;
+color:  #1F2E55;
+margin-top:-5px;
+}
+
+p{
+    font-family: 'Red Hat Display';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+color: #717FA6;
+line-height: 26px;
+text-align: center;
+width: 354px;
+height: 78px;
+padding: 48px;
+margin-top:-102px;
+}
+
+.annual{
+    width: 354px;
+height:98px ;
+background-color:  #F7F9FF;
+border-radius: 11px;
+margin:auto;
+margin-top:-50px;
+
+}
+
+.oval{
+   margin-top:25px;
+   padding:24px;
+
+}
+
+h2{
+    font-family: 'Red Hat Display';
+font-style: normal;
+font-weight: 900;
+font-size: 16px;
+line-height: 21px;
+color: #1F2E55;
+margin-top: -52px;
+margin-left:70px;
+}
+
+h3{
+    font-family: 'Red Hat Display';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 21px;
+color: #717FA6;
+margin-left: 70px;
+margin-top: -9px;
+}
+
+h4{
+    font-family: 'Red Hat Display';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 19px;
+text-decoration-line: underline;
+color: #382AE1;
+margin-left: 240px;
+margin-top: -46px;
+cursor: pointer;
+}
+
+.payment{
+    width: 354px;
+    height: 50px;
+    background-color: #382AE1;
+    box-shadow: 0px 20px 20px rgba(56, 42, 225, 0.190291);
+border-radius: 11px;
+margin-top:33px;
+display: flex;
+align-items: center;
+cursor: pointer;
+
+
+}
+
+
+h5{
+    font-family: 'Red Hat Display';
+font-style: normal;
+font-weight: 900;
+font-size: 15px;
+line-height: 20px;
+color: #FFFFFF;
+margin-left: 100px;
+}
+
+h6{
+    font-family: 'Red Hat Display';
+font-style: normal;
+font-weight: 900;
+font-size: 15px;
+line-height: 20px;
+color: #717FA6;
+display: flex;
+align-items: center;
+justify-content: center;
+cursor: pointer;
+}
+
+.payment:hover{
+
+color: #FFFFFF;
+background-color:  #766CF1;
+transition: 0.9s;
+}
+
+h6:hover{
+    color: #1F2E55;
+    transition: 0.1s;
+}
+
+h4:hover{
+    color: #766CF1;
+    transition: 0.1s;
+}
+
